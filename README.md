@@ -15,7 +15,7 @@
 <h2>📚Field of Study</h2>
 <p>Special Education and Computer Science</p>
 <h2>Brief Bio</h2>
-<p>I am a classically trained computer scientists and special 
+<p>I am a classically trained computer scientists and special education teacher</p>
 
 <!--
 **daleloggins/daleloggins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
