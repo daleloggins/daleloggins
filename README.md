@@ -1,6 +1,6 @@
 <h1> Dale Loggins Jr.</h1>
 
-
+![alt text](https://github.com/daleloggins/daleloggins/blob/main/assets/me.jpg)
 
 <h2>💼Where I teach</h2>
 <p>I am a teacher at Gwendolyn Brooks College Prep</p>
